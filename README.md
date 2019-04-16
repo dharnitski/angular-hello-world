@@ -1,5 +1,8 @@
 # AngularHelloWorld
 
+[![CircleCI](https://circleci.com/gh/dharnitski/angular-hello-world.svg?style=svg)](https://circleci.com/gh/dharnitski/angular-hello-world)
+[![Coverage Status](https://coveralls.io/repos/github/dharnitski/angular-hello-world/badge.svg?branch=master)](https://coveralls.io/github/dharnitski/angular-hello-world?branch=master)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
